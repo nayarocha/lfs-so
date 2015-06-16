@@ -9,7 +9,15 @@ swap e um "free space" que será o espaço utilizado na compilação do LFS.
 
 [4]- Executar version check (Baixar manualmente pacotes que faltam)
 
-[5]- Criação da partição para o LFS. Espaço que será utilizado é aquele definido 
+[5]- [2.4. Mounting the New Partition - seguir passos do book e do vídeo]
+ -Criação da partição para o LFS. Espaço que será utilizado é aquele definido 
 no início da instalação do ubuntu
 
-[6] - Baixar pacotes para pasta source
+
+[6] - [2.5 Setting The $LFS Variable- seguir passos do book e do vídeo]
+
+
+[7] - [Chapter 3. Packages and Patches]
+	-Criar pasta source e Baixar pacotes 
+
+obs: irá dar problemas em 2 pacotes!
