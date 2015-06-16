@@ -1,8 +1,15 @@
 [1] Iniciar configurações da máquina virtual:
 	- memória principal: 1024 mb
 	-armazenamento: 40gb
-[2] - Optei por criar uma nova máquina virtual utilizando o UBUNTU 12.04 pelo fato de dar problemas ao compilar o binultils no debian.
-[3] - Ao instalar o  Ubuntu optar por particionar a memória manualmente, deixando espaço p/ o linux, swap e um "free space" que será o espaço utilizado na compilação do LFS. 
+[2] - Optei por criar uma nova máquina virtual utilizando o UBUNTU 12.04 
+pelo fato de dar problemas ao compilar o binultils no debian.
+
+[3] - Ao instalar o  Ubuntu optar por particionar a memória manualmente, deixando espaço p/ o linux, 
+swap e um "free space" que será o espaço utilizado na compilação do LFS. 
+
 [4]- Executar version check (Baixar manualmente pacotes que faltam)
-[5]- Criação da partição para o LFS. Espaço que será utilizado é aquele definido no início da instalação do ubuntu
+
+[5]- Criação da partição para o LFS. Espaço que será utilizado é aquele definido 
+no início da instalação do ubuntu
+
 [6] - Baixar pacotes para pasta source
