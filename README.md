@@ -1,5 +1,6 @@
 # Linux From Scratch - Sistemas operacionais
  -> LFS 7.7
+ 
  -> UBUNTU 12.04
  
  --> Ebook LFS 
