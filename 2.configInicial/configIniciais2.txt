@@ -1,0 +1,6 @@
+[1] Criando GRUPO LFS - dando privilegio ao usuario
+
+[2]ADICIONANDO PACOTES QUE FALTARAM AO BAIXAR NO PASSO ANTERIOR QUE FOI O VIM E O FILE.
+DOU PERMISSAO AO MEU USUARIO ROCHA ADICIONO OS ARQUIVOS E DEPOIS DOU PERMISSAO NOVAMENTE AO USUARIO CRIADO LFS
+
+OBS:para adicionar os pacotes que faltaram pra baixar deve ser dado privilégio ao seu usuário e depois mudar a permissão para o usuário LFS (Passo importante!)
