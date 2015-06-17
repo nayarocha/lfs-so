@@ -18,6 +18,7 @@ pelo fato de dar problemas ao compilar o binultils no debian.
 > [3] - Ao instalar o  Ubuntu optar por particionar a memória manualmente, deixando espaço p/ o linux, 
 swap e um "free space" que será o espaço utilizado na compilação do LFS. 
 >
+
 ![Alt text](https://github.com/nayarocha/lfs-so/blob/master/1.Inicio/Image%20%5B2%5D.png?raw=true)
 
 
