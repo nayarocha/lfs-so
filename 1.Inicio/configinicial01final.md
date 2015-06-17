@@ -38,3 +38,5 @@ swap e um "free space" que será o espaço utilizado na compilação do LFS.
       -Criar pasta source e Baixar pacotes
 >
      -obs: irá dar problemas em 2 pacotes!
+
+![Alt text](https://github.com/nayarocha/lfs-so/blob/master/1.Inicio/Image%20%5B4%5D.png?raw=true)
