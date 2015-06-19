@@ -1,7 +1,6 @@
- #Compilações - parte 03
-> 
-
- #*****Diffultils*****
+>##Compilações - parte 03
+>
+>*****Diffultils*****
  - descompactando : tar -xJf arquivo.tar.xz
 
   [1] Preparando para compilação
@@ -11,7 +10,7 @@
     
 
 
-#*****File*****
+>*****File*****
 
 O pacote de arquivos contém um utilitário p/ determinar o tipo de um determinado
 arquivo ou arquivos
@@ -24,7 +23,7 @@ arquivo ou arquivos
   [4] make install 
 
 
-#*****Findutils*****
+>*****Findutils*****
 
 O pacote Findutils contém programas para encontrar arquivos. Estes programas são utilizados para fazer buscas
 recursivas através de uma árvore do diretório e para criar, manter, e fazer buscas em uma base de dados (mais
@@ -39,8 +38,8 @@ rapidamente do que em uma busca recursiva, mas irreal se a base de dados não fo
 
 
 
-#*****GAWK*****
->
+>*****GAWK*****
+
 
 O pacote Gawk contém programas para manipular arquivos de texto.
 
